@@ -28,7 +28,8 @@ header h1 .seo {
 }
 
 /* class .header was updated to show header element*/
-header div {
+/* div selector updated to nav element*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +38,14 @@ header div {
 }
 
 /* class .header was updated to show header element*/
-header div ul {
+/* div selector updated to nav element*/
+header nav ul {
     list-style-type: none;
 }
 
 /* class .header was updated to show header element*/
-header div ul li {
+/* div selector updated to nav element*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -194,6 +197,7 @@ p {
     font-size: 36px;
 }
 
+/* class .footer was updated to show footer element*/
 footer {
     padding: 30px;
     clear: both;
@@ -201,6 +205,7 @@ footer {
     text-align: center;
 }
 
+/* class .footer was updated to show footer element*/
 footer h2 {
     font-size: 20px;
 }
